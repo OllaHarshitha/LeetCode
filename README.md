@@ -4,6 +4,7 @@ It is a technique where two pointers move separately but at the same pace, usual
 * Merging two sorted arrays into one sorted array.
 * Comparing elements in two linked lists to check if they are the same.
 * Checking subsequences, like seeing if one string is a part of another.
+
 Incase of 1D Array:
 * Finding Duplicates in a Sorted Array
 * Partitioning an Array (Move Zeroes, Even-Odd Segregation)
